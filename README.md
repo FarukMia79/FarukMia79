@@ -1,6 +1,6 @@
 ### Hi there 👋, Hey, I am Faruk Dev
 #### Full-stack Developer
-![Full-stack Developer](https://github.com/FarukMia79/FarukMia79/blob/main/FarukDev.png)
+![Full-stack Developer](https://github.com/FarukMia79/FarukMia79/blob/main/FarukDev%20banner.png)
 
 Hi there! 👋
 I'm a passionate Full-stack Web Developer from Bangladesh BD
